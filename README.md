@@ -15,5 +15,5 @@ I will be open to any contribution. If you have any idea, please let me know. I 
 **Note:** If you want to do a major changes than first create an Issue.
 
 ## License
-This project is licensed under [GPL-3.0]().
+This project is licensed under [GPL-3.0](https://github.com/mrhrifat/hackerrank-30days-code/blob/master/LICENSE.md).
 
